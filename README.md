@@ -15,9 +15,7 @@ This will hopefully be orchestrated by airflow (or other scheduling software) fo
 **INSTALLATION INSTRUCTIONS**
 
 **Can be completed via the script "setup.sh"**
-1) sudo apt install python3-pip
-2) pip install virtualenv
-3) virtualenv .venv 
+1) run setup.sh
 4) source .venv/bin/activate
 4) pip install -r requirements.txt
 
