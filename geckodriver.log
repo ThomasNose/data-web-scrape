@@ -2316,3 +2316,298 @@ DevTools listening on ws://localhost:49221/devtools/browser/522f056a-eeed-4ecd-b
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
 Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1675594404985	geckodriver	INFO	Listening on 127.0.0.1:41815
+1675594405525	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen78HHK"
+Gtk-Message: 10:53:25.565: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:53:25.566: Failed to load module "canberra-gtk-module"
+1675594406070	Marionette	INFO	Marionette enabled
+1675594406072	Marionette	INFO	Listening on port 44763
+WebDriver BiDi listening on ws://localhost:60091
+Read port: 44763
+1675594406195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen78HHK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60091/devtools/browser/24a6a409-2f74-41cc-b661-0d3793cda4cc
+[2023-02-05T10:53:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:53:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:53:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:53:28Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675594411985	Marionette	INFO	Stopped listening on port 44763
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1675594492445	geckodriver	INFO	Listening on 127.0.0.1:34175
+1675594492917	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQOXde7"
+Gtk-Message: 10:54:52.952: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:54:52.953: Failed to load module "canberra-gtk-module"
+1675594493180	Marionette	INFO	Marionette enabled
+1675594493182	Marionette	INFO	Listening on port 45245
+WebDriver BiDi listening on ws://localhost:57113
+Read port: 45245
+1675594493261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQOXde7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57113/devtools/browser/f38d1f56-d369-4e0e-bf14-9bfbf0c57857
+[2023-02-05T10:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:54:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675594498924	Marionette	INFO	Stopped listening on port 45245
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1675594598380	geckodriver	INFO	Listening on 127.0.0.1:43653
+1675594598853	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefTSfov"
+Gtk-Message: 10:56:38.889: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:56:38.890: Failed to load module "canberra-gtk-module"
+1675594599115	Marionette	INFO	Marionette enabled
+1675594599117	Marionette	INFO	Listening on port 39963
+WebDriver BiDi listening on ws://localhost:58739
+Read port: 39963
+1675594599234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefTSfov/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58739/devtools/browser/ba6daa66-4368-4325-bae6-a0b9c4028ea7
+[2023-02-05T10:56:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:56:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:56:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:56:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675594604902	Marionette	INFO	Stopped listening on port 39963
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1675594735114	geckodriver	INFO	Listening on 127.0.0.1:46523
+1675594735587	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefmsQHA"
+Gtk-Message: 10:58:55.602: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675594735968	Marionette	INFO	Marionette enabled
+1675594735970	Marionette	INFO	Listening on port 38547
+Read port: 38547
+WebDriver BiDi listening on ws://127.0.0.1:41009
+1675594736073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefmsQHA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41009/devtools/browser/22a3dcb9-c8b5-4d32-bbc3-a30649fe0781
+[2023-02-05T10:58:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:58:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:58:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T10:58:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675594742208	Marionette	INFO	Stopped listening on port 38547
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 7414: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675594801401	geckodriver	INFO	Listening on 127.0.0.1:33287
+1675594801871	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepBCl63"
+Gtk-Message: 11:00:01.884: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675594802145	Marionette	INFO	Marionette enabled
+1675594802148	Marionette	INFO	Listening on port 45717
+Read port: 45717
+WebDriver BiDi listening on ws://127.0.0.1:39205
+1675594802238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepBCl63/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39205/devtools/browser/05e73c45-07e6-4db8-8a54-02ef17d3cce2
+[2023-02-05T11:00:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:00:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:00:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:00:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675594808164	Marionette	INFO	Stopped listening on port 45717
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 5567: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595146560	geckodriver	INFO	Listening on 127.0.0.1:54165
+1675595147029	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBLIltK"
+Gtk-Message: 11:05:47.042: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595147290	Marionette	INFO	Marionette enabled
+1675595147292	Marionette	INFO	Listening on port 37447
+Read port: 37447
+WebDriver BiDi listening on ws://127.0.0.1:47257
+1675595147361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBLIltK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47257/devtools/browser/5a5914c9-397b-4add-b548-d6b589b97926
+[2023-02-05T11:05:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595152197	Marionette	INFO	Stopped listening on port 37447
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595152829	geckodriver	INFO	Listening on 127.0.0.1:46163
+1675595153299	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRc2HO6"
+Gtk-Message: 11:05:53.312: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595153571	Marionette	INFO	Marionette enabled
+1675595153573	Marionette	INFO	Listening on port 39425
+Read port: 39425
+WebDriver BiDi listening on ws://127.0.0.1:60557
+1675595153652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRc2HO6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60557/devtools/browser/a95cf59e-3012-40b4-85cd-9925c9993c66
+[2023-02-05T11:05:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:05:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595159387	Marionette	INFO	Stopped listening on port 39425
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 623: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595166504	geckodriver	INFO	Listening on 127.0.0.1:48821
+1675595166973	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLrPfty"
+Gtk-Message: 11:06:06.985: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595167276	Marionette	INFO	Marionette enabled
+1675595167278	Marionette	INFO	Listening on port 43363
+WebDriver BiDi listening on ws://127.0.0.1:46975
+Read port: 43363
+1675595167513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLrPfty/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46975/devtools/browser/d73f28e9-0a6d-4ee7-864f-d174952071a8
+[2023-02-05T11:06:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:06:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:06:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:06:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595173060	Marionette	INFO	Stopped listening on port 43363
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 7046: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595456958	geckodriver	INFO	Listening on 127.0.0.1:48843
+1675595457427	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexO6pSE"
+Gtk-Message: 11:10:57.439: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595457687	Marionette	INFO	Marionette enabled
+1675595457689	Marionette	INFO	Listening on port 37093
+Read port: 37093
+WebDriver BiDi listening on ws://127.0.0.1:35947
+1675595457767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexO6pSE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35947/devtools/browser/b90a46db-813a-44f7-8b98-4e34f10a6dca
+[2023-02-05T11:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:11:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595463514	Marionette	INFO	Stopped listening on port 37093
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595547901	geckodriver	INFO	Listening on 127.0.0.1:50211
+1675595548371	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKSj4kx"
+Gtk-Message: 11:12:28.384: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595548641	Marionette	INFO	Marionette enabled
+1675595548643	Marionette	INFO	Listening on port 34967
+Read port: 34967
+WebDriver BiDi listening on ws://127.0.0.1:54265
+1675595548710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKSj4kx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54265/devtools/browser/6057d7a2-a771-4d2d-acfb-7066bf952338
+[2023-02-05T11:12:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:12:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:12:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:12:31Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595554550	Marionette	INFO	Stopped listening on port 34967
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 5549: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595863193	geckodriver	INFO	Listening on 127.0.0.1:59273
+1675595863663	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNaLQiC"
+Gtk-Message: 11:17:43.676: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595863923	Marionette	INFO	Marionette enabled
+1675595863925	Marionette	INFO	Listening on port 44853
+Read port: 44853
+WebDriver BiDi listening on ws://127.0.0.1:41233
+1675595864003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNaLQiC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41233/devtools/browser/0026ddd6-af45-4d40-b184-c61136674a54
+[2023-02-05T11:17:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:17:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:17:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:17:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595869703	Marionette	INFO	Stopped listening on port 44853
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 1495: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595931200	geckodriver	INFO	Listening on 127.0.0.1:57545
+1675595931671	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKXJK3V"
+Gtk-Message: 11:18:51.684: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595931937	Marionette	INFO	Marionette enabled
+1675595931939	Marionette	INFO	Listening on port 35389
+Read port: 35389
+WebDriver BiDi listening on ws://127.0.0.1:58481
+1675595932004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKXJK3V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58481/devtools/browser/423da52a-fc4f-4690-acda-663a55a426be
+[2023-02-05T11:18:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:18:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:18:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:18:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675595938068	Marionette	INFO	Stopped listening on port 35389
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 6454: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675595997284	geckodriver	INFO	Listening on 127.0.0.1:53755
+1675595997755	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAXkXMO"
+Gtk-Message: 11:19:57.767: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675595998019	Marionette	INFO	Marionette enabled
+1675595998021	Marionette	INFO	Listening on port 41283
+Read port: 41283
+WebDriver BiDi listening on ws://127.0.0.1:36247
+1675595998099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAXkXMO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36247/devtools/browser/9f0077f9-49e0-4f7f-bef7-6303636fdf01
+[2023-02-05T11:20:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675596002877	Marionette	INFO	Stopped listening on port 41283
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675596003508	geckodriver	INFO	Listening on 127.0.0.1:36261
+1675596003979	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKCvsyT"
+Gtk-Message: 11:20:03.991: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675596004242	Marionette	INFO	Marionette enabled
+1675596004244	Marionette	INFO	Listening on port 41503
+Read port: 41503
+WebDriver BiDi listening on ws://127.0.0.1:56317
+1675596004323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKCvsyT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56317/devtools/browser/54410d03-f2c0-4d4e-a056-83d833773d91
+[2023-02-05T11:20:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675596010141	Marionette	INFO	Stopped listening on port 41503
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 767: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+1675596016575	geckodriver	INFO	Listening on 127.0.0.1:37991
+1675596017045	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAPqMzn"
+Gtk-Message: 11:20:17.058: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1675596017311	Marionette	INFO	Marionette enabled
+1675596017313	Marionette	INFO	Listening on port 39395
+Read port: 39395
+WebDriver BiDi listening on ws://127.0.0.1:48543
+1675596017394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPqMzn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48543/devtools/browser/ffd63d8c-872b-451c-8992-e8e1948702f9
+[2023-02-05T11:20:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-05T11:20:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1675596023440	Marionette	INFO	Stopped listening on port 39395
+JavaScript error: https://www.google.com/js/th/Bdw2VvWHBnLyaZnICW60B-ZF7DgMaGaXgSsIEsc-hUM.js line 2 > eval, line 7654: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
