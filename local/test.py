@@ -1,11 +1,9 @@
-from selenium import webdriver
-from bs4 import BeautifulSoup as bs
+import os
 
-driver = webdriver.Firefox()
+path = '/home/thomas/youtube-data/csv/'
+files = os.listdir(path)
 
-driver.get('http://www.youtube.com')
-
-html = driver.page_source
-
-soup = bs(html)
-print(soup.prettify())
+for date in files:
+    csv_time = os.listdir(path+date)
+    print(path+date)
+    print(csv_time)
