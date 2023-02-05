@@ -1,5 +1,9 @@
-beautifulsoup4
-lxml
-requests
-pandas
-selenium
+beautifulsoup4==4.11.2
+lxml==4.9.2
+requests==2.28.2
+pandas==1.5.3
+selenium==4.8.0
+pyarrow==11.0.0
+fastparquet==2023.1.0
+sqlalchemy==2.0.1
+psycopg2==2.9.5
